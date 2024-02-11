@@ -1,0 +1,18 @@
+section {
+	display: flex;
+	flex-direction: column;
+	width: 95%;
+}
+
+.todo {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	border: 2px solid;
+	border-color: #80BCBD;
+	background-color: #D5F0C1;
+	border-radius: 15px;
+	padding: 5px;
+	margin: 10px;
+	width: 100%;
+}

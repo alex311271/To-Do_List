@@ -1,0 +1,23 @@
+.cards {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border: 2px solid;
+	border-color: #80BCBD;
+	background-color: #D5F0C1;
+	border-radius: 15px;
+	padding: 5px;
+	margin: 10px;
+	width: 90%;
+}
+
+.input {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	align-items: start;
+	border: 2px solid;
+	border-color: #80BCBD;
+	background-color: #D5F0C1;
+	border-radius: 15px;
+	padding: 5px;
+	width: 76%;
+}
